@@ -1,4 +1,7 @@
-package examples;
+/* Module 4
+ * Arrays
+ */
+package Module4;
 
 public class Arrays {
 	public static void main(String[] args) {

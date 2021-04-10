@@ -1,4 +1,4 @@
-package examples;
+package Module4;
 
 public class MultiDimensionalArray {
 	public static void main(String[] args) {

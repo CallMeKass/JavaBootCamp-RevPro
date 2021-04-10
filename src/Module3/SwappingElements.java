@@ -1,4 +1,8 @@
-package examples;
+/* Module 3
+ * Exercise for moving elements in a list
+ */
+
+package Module3;
 
 public class SwappingElements {
 	

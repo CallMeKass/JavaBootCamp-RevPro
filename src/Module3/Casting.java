@@ -1,4 +1,7 @@
-package examples;
+/* Module 3
+ * Examples for casting
+ */
+package Module3;
 
 public class Casting {
 
