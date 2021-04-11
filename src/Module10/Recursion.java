@@ -16,7 +16,6 @@ public class Recursion {
 	//Probably shouldn't use int for this but,
 	//its just and example so whatever
 	public static int factorial(int x) {
-		int result = 1;
 		if(x > 0) {
 			return x * factorial(x-1);
 		}
