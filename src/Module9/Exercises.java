@@ -7,7 +7,6 @@ package Module9;
 
 public class Exercises {
 	public static void main(String[] args) {
-		float[] f = {1,2,3,4};
 		System.out.println(getPi());
 		System.out.println(getAlphabetArray());
 		System.out.println(square(1,2,3,4)[3]);
