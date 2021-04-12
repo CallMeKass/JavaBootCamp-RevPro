@@ -15,6 +15,8 @@ this repo contains bootcamp examples and exercise.
 - Understand the purpose and definition of an algorithm
 - Understand searching and basic sorting algorithms
 
+### Progress
+
 🟢Finished    🟡In Progress   🔴Not Started            
 
 | Module    | Description                           |    |
