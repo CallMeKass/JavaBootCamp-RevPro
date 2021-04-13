@@ -31,7 +31,7 @@ this repo contains bootcamp examples and exercise.
 | Module 8  | Nested Statements                     | 🟢|
 | Module 9  | Methods                               | 🟢|
 | Module 10 | Writing Algorithms                    | 🟢|
-| Module 11 | Gathering User Input                  | 🟡|
-| Module 12 | Java Classes                          | 🔴|
+| Module 11 | Gathering User Input                  | 🟢|
+| Module 12 | Java Classes                          | 🟡|
 | Module 13 | Java Classes (Part 2)                 | 🔴|
 | Module 14 | More Keywords                         | 🔴|
