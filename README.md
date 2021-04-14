@@ -19,19 +19,19 @@ this repo contains bootcamp examples and exercise.
 
 🟢Finished    🟡In Progress   🔴Not Started            
 
-| Module    | Description                           |    |
-|---        |---                                    |--- |
-| Module 1  | Introdution to Programming with Java  | 🟢|
-| Module 2  | Representing Information              | 🟢|
-| Module 3  | Operators and Mutating Information    | 🟢|
-| Module 4  | Arrays                                | 🟢|
-| Module 5  | Control Flow Logic                    | 🟢|
-| Module 6  | Algorithms                            | 🟢|
-| Module 7  | Loops                                 | 🟢|
-| Module 8  | Nested Statements                     | 🟢|
-| Module 9  | Methods                               | 🟢|
-| Module 10 | Writing Algorithms                    | 🟢|
-| Module 11 | Gathering User Input                  | 🟢|
-| Module 12 | Java Classes                          | 🟢|
-| Module 13 | Java Classes (Part 2)                 | 🟡|
-| Module 14 | More Keywords                         | 🔴|
+| Module    | Description                                                       |    |
+|---        |---                                                                |--- |
+| Module 1  | Introdution to Programming with Java                              | 🟢|
+| Module 2  | Representing Information, Data types                              | 🟢|
+| Module 3  | Operators, Mutating Information, Casting                          | 🟢|
+| Module 4  | Arrays, Swapping elements, Multi-dimensional Arrays               | 🟢|
+| Module 5  | Control Flow Logic, If/Switch Statements, Fall-through Logic      | 🟢|
+| Module 6  | Algorithms, Big-O                                                 | 🟢|
+| Module 7  | Loops, While, For, Do-While                                       | 🟢|
+| Module 8  | Nested Statements, Nested Conditionals and Loops                  | 🟢|
+| Module 9  | Methods, Parameters, Return types                                 | 🟢|
+| Module 10 | Writing Algorithms, Searching and Sorting Algorithms, Recursion   | 🟢|
+| Module 11 | Gathering User Input, Scanner, System.in, Handling Exceptions     | 🟢|
+| Module 12 | Java Classes, Packages and Imports, Access Modifiers, Overloading | 🟢|
+| Module 13 | Java Classes (Part 2), Constructors, Object vs Class, Composite   | 🟡|
+| Module 14 | More Keywords, This, Final, Static, Inheritance, Abstract         | 🔴|
