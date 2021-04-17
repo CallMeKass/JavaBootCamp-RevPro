@@ -1,7 +1,7 @@
 # JavaBootCamp-RevPro
 Revature Pro Java Development BootCamp – Estimated Time to Complete: 40hr
 
-this repo contains bootcamp examples and exercise.
+this repo contains bootcamp examples and exercises.
 
 ### BootCamp Objectives
 - Define the basic data types in Java
