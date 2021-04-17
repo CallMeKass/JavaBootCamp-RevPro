@@ -21,7 +21,7 @@ this repo contains bootcamp examples and exercise.
 
 | Module    | Description                                                       |    |
 |---        |---                                                                |--- |
-| Module 1  | Introdution to Programming with Java                              | 🟢|
+| Module 1  | Introduction to Programming with Java                              | 🟢|
 | Module 2  | Representing Information, Data types                              | 🟢|
 | Module 3  | Operators, Mutating Information, Casting                          | 🟢|
 | Module 4  | Arrays, Swapping elements, Multi-dimensional Arrays               | 🟢|
@@ -33,5 +33,5 @@ this repo contains bootcamp examples and exercise.
 | Module 10 | Writing Algorithms, Searching and Sorting Algorithms, Recursion   | 🟢|
 | Module 11 | Gathering User Input, Scanner, System.in, Handling Exceptions     | 🟢|
 | Module 12 | Java Classes, Packages and Imports, Access Modifiers, Overloading | 🟢|
-| Module 13 | Java Classes (Part 2), Constructors, Object vs Class, Composite   | 🟡|
-| Module 14 | More Keywords, This, Final, Static, Inheritance, Abstract         | 🔴|
+| Module 13 | Java Classes (Part 2), Constructors, Object vs Class, Composite   | 🟢|
+| Module 14 | More Keywords, This, Final, Static, Inheritance, Abstract         | 🟡|

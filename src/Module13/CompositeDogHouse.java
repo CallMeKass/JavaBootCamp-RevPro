@@ -5,7 +5,6 @@ public class CompositeDogHouse {
 	
 	public CompositeDogHouse() {
 		d = new CompositeDog();
-		d.setName("Doggo");
 	}
 	
 	
@@ -26,6 +25,5 @@ public class CompositeDogHouse {
 		CompositeDog rex = new CompositeDog("Rex");
 		CompositeDogHouse house2 = new CompositeDogHouse(rex);
 		System.out.println("This house belongs to " + house2.getDog());
-		
 	}
 }

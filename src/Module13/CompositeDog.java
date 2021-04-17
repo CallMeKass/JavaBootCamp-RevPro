@@ -4,7 +4,7 @@ public class CompositeDog {
 	String name;
 	
 	public CompositeDog() {
-		name = "dog";
+		name = "Doggo";
 	}
 	
 	public CompositeDog(String nam) {
